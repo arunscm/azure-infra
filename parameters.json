@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_lds_web_app_name": {
+            "value": null
+        },
+        "disks_lds_web_app_OsDisk_1_89ed57260088457d9f7ba6deb44dd40a_externalid": {
+            "value": null
+        },
+        "disks_lds_web_app_DataDisk_externalid": {
+            "value": null
+        },
+        "networkInterfaces_lds_web_app705_externalid": {
+            "value": null
+        }
+    }
+}
